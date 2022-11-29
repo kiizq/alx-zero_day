@@ -1,2 +1,2 @@
-second readme
-update
+hi 
+My readme is up to date
